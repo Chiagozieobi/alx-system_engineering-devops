@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdi rwx-rw-r my_dir 
+mkdir rwx-rw-x my_dir 
