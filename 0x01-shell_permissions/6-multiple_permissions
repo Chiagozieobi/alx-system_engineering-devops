@@ -1,1 +1,2 @@
-chmod 771 hello
+#!/bin/bash
+chmod u+x,g+x,0+r hello

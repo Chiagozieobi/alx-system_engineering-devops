@@ -1,1 +1,2 @@
-echo -n > hello
+#!/bin/bash
+touch hello
